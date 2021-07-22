@@ -1,2 +1,3 @@
 # Goals-Plan
-A Repository for saving my goals and plan
+A Repository for save my goals and plan
+It's Personal

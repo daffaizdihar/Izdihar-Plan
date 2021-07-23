@@ -2,8 +2,9 @@
   To-Learn List, Theme: Basic Frontend
     - CSS Layouting
     - CSS 3
-    - Git & Github
     - CSS Frameworks
     - Basic Javascript
+    - Bash & Terminal
+    - Git & Github
   Project
     - Create my github.io page

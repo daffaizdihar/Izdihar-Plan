@@ -2,9 +2,9 @@
   To-Learn List, Theme: Basic Frontend
     - CSS Layouting
     - CSS 3
-    - CSS Frameworks
+    - CSS Frameworks (Bootstrap)
+    - VCS with Git & Github
     - Basic Javascript
-    - Bash & Terminal
-    - Git & Github
+    - Python
   Project
     - Create my github.io page

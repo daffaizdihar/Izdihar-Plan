@@ -5,6 +5,9 @@
     - CSS Frameworks (Bootstrap)
     - VCS with Git & Github
     - Basic Javascript
+    Backend
     - Python
+    - Python Frameworks
+    - General Knowledge
   Project
     - Create my github.io page

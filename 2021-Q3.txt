@@ -8,6 +8,7 @@
     Backend
     - Python
     - Python Frameworks
+    - MySQL
     - General Knowledge
   Project
     - Create my github.io page
